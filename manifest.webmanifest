@@ -1,0 +1,16 @@
+{
+  "name": "Intensity · 30-Day Plan",
+  "short_name": "Intensity",
+  "description": "30-Day Intensity Plan. Sessions, zones, weight, protein, and steps. Offline on your phone.",
+  "id": "/intensity-workout/",
+  "start_url": "/intensity-workout/",
+  "scope": "/intensity-workout/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0c0e",
+  "theme_color": "#0c0c0e",
+  "icons": [
+    { "src": "/intensity-workout/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/intensity-workout/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
