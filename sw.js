@@ -1,4 +1,4 @@
-const CACHE = "intensity-shell-v7";
+const CACHE = "intensity-shell-v8";
 const ROOT = new URL("./", self.location.href);
 const PHOTOS = [
   "band-face-pull.webp",
@@ -43,6 +43,8 @@ const SHELL = [
   rooted("icon-192.png"),
   rooted("icon-512.png"),
   rooted("apple-touch-icon.png"),
+  rooted("whoop/nov18.webp"),
+  rooted("whoop/nov19.webp"),
   ...PHOTOS.map((name) => rooted(`exercises/${name}`)),
 ];
 
