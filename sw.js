@@ -1,4 +1,4 @@
-const CACHE = "intensity-shell-v4";
+const CACHE = "intensity-shell-v5";
 const ROOT = new URL("./", self.location.href);
 const PHOTOS = [
   "band-face-pull.webp",
